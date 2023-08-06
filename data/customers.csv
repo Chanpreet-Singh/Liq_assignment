@@ -1,0 +1,21 @@
+customer_id,customer_name,email,phone_number
+1,John Smith,john.smith@example.com,5551234567
+2,Emily Johnson,emily.johnson@example.com,5559876543
+3,Michael Williams,michael.w@example.com,5555555555
+4,Jessica Brown,jessica.b@example.com,5551112222
+5,Christopher Jones,chris.jones@example.com,5554443333
+6,Olivia Davis,olivia.d@example.com,5556667777
+7,Daniel Miller,daniel.m@example.com,5558889999
+8,Ava Wilson,ava.wilson@example.com,5557778888
+9,William Taylor,william.t@example.com,5552223333
+10,Sophia Anderson,sophia.a@example.com,5559998888
+11,Matthew Martinez,matthew.m@example.com,5554442222
+12,Isabella Thomas,isabella.t@example.com,5556661111
+13,David Moore,david.moore@example.com,5553336666
+14,Mia Jackson,mia.jackson@example.com,5557772222
+15,James Lee,james.lee@example.com,5558883333
+16,Emma White,emma.white@example.com,5559992222
+17,Joseph Harris,joseph.h@example.com,5552228888
+18,Abigail Martin,abigail.m@example.com,5554445555
+19,Alexander Thompson,alex.t@example.com,5556669999
+20,Chloe Clark,chloe.clark@example.com,5557774444

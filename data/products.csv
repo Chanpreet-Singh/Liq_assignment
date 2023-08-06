@@ -1,0 +1,256 @@
+product_id,product_name
+1,Balu shahi
+2,Boondi
+3,Gajar ka halwa
+4,Ghevar
+5,Gulab jamun
+6,Imarti
+7,Jalebi
+8,Kaju katli
+9,Kalakand
+10,Kheer
+11,Laddu
+12,Lassi
+13,Nankhatai
+14,Petha
+15,Phirni
+16,Rabri
+17,Sheera
+18,Singori
+19,Sohan halwa
+20,Sohan papdi
+21,Chhena jalebi
+22,Chhena kheeri
+23,Chhena poda
+24,Cham cham
+25,Kheer sagar
+26,Ledikeni
+27,Lyangcha
+28,Malapua
+29,Mihidana
+30,Misti doi
+31,Pantua
+32,Pithe
+33,Rasabali
+34,Ras malai
+35,Rasgulla
+36,Sandesh
+37,Adhirasam
+38,Ariselu
+39,Bandar laddu
+40,Chikki
+41,Dharwad pedha
+42,Double ka meetha
+43,Gavvalu
+44,Kakinada khaja
+45,Kuzhi paniyaram
+46,Mysore pak
+47,Obbattu holige
+48,Palathalikalu
+49,Poornalu
+50,Pongal
+51,Pootharekulu
+52,Qubani ka meetha
+53,Sheer korma
+54,Unni Appam
+55,Kajjikaya
+56,Anarsa
+57,Basundi
+58,Dhondas
+59,Doodhpak
+60,Mahim halwa
+61,Modak
+62,Shankarpali
+63,Shrikhand
+64,Sutar feni
+65,Maach Jhol
+66,Pork Bharta
+67,Chak Hao Kheer
+68,Galho
+69,Aloo gobi
+70,Aloo tikki
+71,Aloo matar
+72,Aloo methi
+73,Aloo shimla mirch
+74,Bhatura
+75,Bhindi masala
+76,Biryani
+77,Butter chicken
+78,Chana masala
+79,Chapati
+80,Chicken razala
+81,Chicken Tikka masala
+82,Chicken Tikka
+83,Chole bhature
+84,Daal baati churma
+85,Daal puri
+86,Dal makhani 
+87,Dal tadka
+88,Dum aloo
+89,Poha
+90,Fara
+91,Kachori
+92,Kadai paneer
+93,Kadhi pakoda
+94,Karela bharta
+95,Khichdi
+96,Kofta
+97,Kulfi falooda
+98,Lauki ke kofte
+99,Lauki ki subji
+100,Litti chokha
+101,Makki di roti sarson da saag
+102,Misi roti
+103,Mushroom do pyaza
+104,Mushroom matar
+105,Naan
+106,Navrattan korma
+107,Palak paneer
+108,Paneer butter masala
+109,Paneer tikka masala
+110,Pani puri
+111,Panjeeri
+112,Papad
+113,Paratha
+114,Pattor
+115,Pindi chana
+116,Rajma chaval
+117,Rongi
+118,Samosa
+119,Sattu ki roti
+120,Shahi paneer
+121,Shahi tukra
+122,Vegetable jalfrezi
+123,Tandoori Chicken
+124,Tandoori Fish Tikka
+125,Attu
+126,Avial
+127,Bisi bele bath
+128,Currivepillai sadam 
+129,Dosa
+130,Idiappam
+131,Idli
+132,Kanji
+133,Kaara kozhambu
+134,Keerai kootu
+135,Keerai masiyal
+136,Keerai sadam
+137,Keerai poriyal
+138,Beef Fry
+139,Kootu
+140,Kos kootu
+141,Koshambri
+142,Kothamali sadam
+143,Kuzhakkattai
+144,Kuzhambu
+145,Masala Dosa
+146,Pachadi
+147,Paniyaram
+148,Papadum
+149,Paravannam
+150,Payasam
+151,Paruppu sadam
+152,Pesarattu
+153,Poriyal
+154,Puli sadam
+155,Rasam
+156,Puttu
+157,Sambar
+158,Sandige
+159,Sevai
+160,Thayir sadam
+161,Theeyal
+162,Uttapam
+163,Vada
+164,Chicken Varuval
+165,Upma
+166,Amti
+167,Zunka
+168,Kolim Jawla
+169,Saath
+170,Bajri no rotlo
+171,Coconut vadi
+172,Bhakri
+173,Bombil fry
+174,Chakali
+175,Chevdo
+176,Chorafali
+177,Copra paak
+178,Daal Dhokli
+179,Kutchi dabeli
+180,Dahi vada
+181,Dalithoy
+182,Dhokla
+183,Dudhi halwa
+184,Gatta curry
+185,Gud papdi
+186,Ghooghra
+187,Handwo
+188,Halvasan
+189,Jeera Aloo
+190,Kansar
+191,Keri no ras
+192,Khakhra
+193,Khandvi
+194,Kombdi vade
+195,Laapsi
+196,Koshimbir
+197,Methi na Gota
+198,Mohanthal
+199,Muthiya
+200,Patra
+201,Pav Bhaji
+202,Puri Bhaji
+203,Sabudana Khichadi
+204,Sev khamani
+205,Sev tameta
+206,Namakpara
+207,Sukhdi
+208,Surnoli
+209,Thalipeeth
+210,Undhiyu
+211,Veg Kolhapuri
+212,Vindaloo
+213,Lilva Kachori
+214,Mag Dhokli
+215,Khichu
+216,Thepla
+217,Farsi Puri
+218,Khaman
+219,Turiya Patra Vatana sabji
+220,Churma Ladoo
+221,Cheera Doi
+222,Gheela Pitha
+223,Khar
+224,Kumol Sawul
+225,Luchi
+226,Alu Pitika
+227,Masor tenga
+228,Bengena Pitika
+229,Bilahi Maas
+230,Black rice
+231,Bora Sawul
+232,Brown Rice
+233,Chingri malai curry
+234,Goja
+235,Hando Guri
+236,Haq Maas
+237,Chingri Bhape
+238,Kabiraji
+239,Khorisa
+240,Koldil Chicken
+241,Konir Dom
+242,Koldil Duck
+243,Masor Koni
+244,Mishti Chholar Dal
+245,Pakhala
+246,Pani Pitha
+247,Payokh
+248,Prawn malai curry
+249,Red Rice
+250,Shukto
+251,Til Pitha
+252,Bebinca
+253,Shufta
+254,Mawa Bati
+255,Pinaca
