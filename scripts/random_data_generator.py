@@ -39,6 +39,7 @@ class Randomdatagenerator():
                         "invoice_line_item_id": "{0}_{1}".format(invoice_id, i+1),
                         "product_id": random_utils.get_random_number(1, self.total_products),
                         "customer_id": random_utils.get_random_number(1, 20),
+                        "salesperson_id": random_utils.get_random_number(1, 8),
                         "invoice_date": int(random_utils.get_random_date(constants.random_date_start, constants.random_date_end).strftime("%Y%m%d")),
                         "quantity": random_utils.get_random_number(1, 10),
                         "net_amount": random_utils.get_random_number(15, 50),
@@ -52,7 +53,7 @@ class Randomdatagenerator():
         count = 1
         while count <= num_records:
             items_per_transaction = random_utils.get_random_number(1, 5)
-            invoice_id = random_utils.get_unique_random_string(10),
+            invoice_id = random_utils.get_unique_random_string(10)
             invoice_list = self.get_invoice_items(invoice_id, items_per_transaction)
             list_of_data.extend(invoice_list)
             count += items_per_transaction
