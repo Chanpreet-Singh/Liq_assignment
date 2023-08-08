@@ -7,3 +7,4 @@ class Mandatory_ops:
         folder_utils.create_folder(constants.data_lake_folder)
         folder_utils.create_folder(constants.parquet_files_folder)
         folder_utils.create_folder(constants.csv_files_folder)
+        folder_utils.create_folder(constants.duckdb_files_folder)
