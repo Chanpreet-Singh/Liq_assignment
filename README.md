@@ -12,7 +12,7 @@ After the execution on pipeline-1, we can perform some queries on the ingested d
 ![Output of the experiment-1](./output_images/Correlated_Query_Join.png)
 <br>
 ### **Pipeline-2: Creating partitioned parquet files from duckdb files**
-Command to execute: `source venv/bin/activate; dagster dev -m pipelines.export_duckdb_data_into_partitioned_parquet`
+Command to execute: `source venv/bin/activate; dagster dev -m pipelines.export_duckdb_data_into_partitioned_parquet`<br>
 We have partitioned the data on the basis of customer_id and salesperson_id. To verify this, use the commend `tree -a`
 <br>
 ![Output of the partitioned data in parquet](./output_images/partitioned_parquet.png)
